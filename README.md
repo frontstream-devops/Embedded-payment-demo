@@ -76,9 +76,9 @@ Open Program.cs
 Run > Start Debugging.
 
 ```
-## To run the application
+<img src="https://github.com/user-attachments/assets/3c351cfb-795b-45b0-a6c1-87c994bc3e96" width="800">
 
-![image](https://github.com/user-attachments/assets/f046eaf7-ed45-45f2-89bb-b86ef1e37b4b)
+## To use the application
 
 
 ```sh
@@ -86,28 +86,31 @@ Run > Start Debugging.
 -for IIS Express this will probabably be https://localhost:44316
 -for VS Code it might be https://localhost:5069
 ```
+<img src="https://github.com/user-attachments/assets/241550d2-0cd3-4618-aeac-1dbd4973ff17" width="400">
 
-![image](https://github.com/user-attachments/assets/43f8e17f-c32a-46f6-867c-abcbde012447)
 
 ```bash
 # Create your line items and select Checkout
 ```
+<img src="https://github.com/user-attachments/assets/8ba1c064-37ee-4c66-8ac8-9ad95a117a81" width="800">
 
-<img src="https://github.com/user-attachments/assets/a6c6206a-4780-4ae0-92c4-c271d0589f36" width="400">
+```bash
+# The modal should pop up with your form
+```
+<img src="https://github.com/user-attachments/assets/2c6293cd-a36a-41f0-93f0-4410bd08be08" width="400">
+
 
 ```sh
 # You may enter a test card number for demo purposes:
 Card: 5454545454545454 CVV: 999
 Exp Date can be anything
 ```
-
-<img src="https://github.com/user-attachments/assets/181366f4-fc77-46e9-a985-9628cb08f55b" width="400">
+<img src="https://github.com/user-attachments/assets/a3b6e1f7-e426-4703-a4bb-ce6ac916d6ec" width="400">
 
 ```bash
 # View the results on success
 ```
-
-<img src="https://github.com/user-attachments/assets/156d9293-8cee-400e-9010-2ca36c07a58c" width="800">
+<img src="https://github.com/user-attachments/assets/91203f94-0245-40fe-9faa-f5f43de42bf1" width="800">
 
 
 ## Documentation
