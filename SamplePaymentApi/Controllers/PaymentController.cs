@@ -10,7 +10,7 @@ namespace SamplePaymentApi.Controllers
     [Route("[controller]")]
     public class PaymentController(IPaymentService paymentService, ILogger<PaymentController> logger) : ControllerBase
     {
-        public const string apiKey = "E6836688-B5FF-48A3-A628-289C4FC4A5F7"; // demo key
+        public const string apiKey = "YOUR_API_KEY_GOES_HERE"; 
 
         /// <summary>
         /// Create an embedded session token for the iframe to use
